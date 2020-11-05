@@ -1,0 +1,12 @@
+p {
+  color: #8B0000;
+  background: #FAF0E6;
+  font-style: italic
+  text-align: center
+}
+
+h2 {
+	color: blue;
+	font-size: 30px;
+	text-shadow: 4px 4px 6px #7FFFD4;
+}
